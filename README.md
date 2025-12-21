@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ozgurcan OZEL</h1>
+`<h1 align="center">Hi 👋, I'm Ozgurcan OZEL</h1>
 <h3 align="center">A passionate ML Engineer from Turkey</h3>
-
+-## 🧑‍💻 About Me
+- 🎓 I’m a 3nd-year Computer Science student at Karadeniz Technical University.
+- 📱 I’m passionate about Data Science & Machine Learning.
 - 🌱 I’m currently learning **R**
 
 - 📫 How to reach me **ozgurcann.ozell@gmail.com**
