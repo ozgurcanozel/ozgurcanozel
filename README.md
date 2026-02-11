@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozgurcan OZEL</h1>
-<h3 align="center">Data Scientist and Machine Learning Engineerh3>
+<h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 
 ## 🧑‍💻 About Me
 - 🎓 I’m a 3rd-year Computer Science student at Karadeniz Technical University.
