@@ -7,5 +7,4 @@ I focus on statistical analysis, predictive modeling, and building data-driven s
 
 You can contact me via **[mail](mailto:ozgurcanozel.cs@gmail.com)**
 
-### 📈 Find me on
 [LinkedIn](www.linkedin.com/in/ozgurcanozel)
